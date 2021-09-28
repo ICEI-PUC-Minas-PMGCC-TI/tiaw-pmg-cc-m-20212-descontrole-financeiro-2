@@ -6,6 +6,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 ## Alunos integrantes da equipe
 
 * Barbara Maria Sampaio Portes
+* Caio Henrique Alvarenga Gonçalves
 * Luan Tadeu Lima Rezende Dias
 * Luana Policarpo De Castro
 * Thiago Torres Santos
