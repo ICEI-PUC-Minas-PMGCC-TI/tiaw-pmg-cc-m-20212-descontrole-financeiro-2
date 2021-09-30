@@ -1,32 +1,19 @@
 # Introdução
+  O descontrole financeiro é uma consequência de fatores psicológicos, falta de hábito de planejamento, e forte pressão pelo consumo enquanto símbolo de aceitação social. Mas há muito mais a ser analisado. Esse é um dos estágios mais críticos que existe em finanças pessoais, podendo inclusive levar o indivíduo à depressão e problemas jurídicos.
 
 ## Problema
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+> Descontrole financeiro que tem como causa diversos fatores, como por exemplo o desemprego, a baixa renda e até mesmo o gasto desenfreado com coisas desnecessárias.
+No mundo capitalista existe um complexo sistema financeiro e publicitário que lucra com o endividamento, e é importante saber e entender os reais motivos dessa desorganização   para que a vida financeira e pessoal não seja mais prejudicada.
 
 ## Objetivos
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+>  Esse trabalho tem como objetivo geral a criação de um site/aplicativo que apresente ferramentas de fácil uso para auxiliar pessoas que querem administrar melhor seu dinheiro.
+
+ Podemos ressaltar, como objetivos específicos, os seguintes tópicos:
+* Fornecer uma interface interativa para ajudar no controle do dinheiro do usuário
+* Integrar com centrais de ajuda profissional nas áreas de psicologia e finanças para fornecer um serviço personalizado de ajuda ao usuário
+* Fornecer dicas para economizar dinheiro
+
 
 ## Justificativa
 
