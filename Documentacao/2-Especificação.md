@@ -20,10 +20,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Luciano             | Me livrar de dívidas pendentes e evitar gerar novas dívidas                 | Ter condições de dar um futuro estável à minha família |
 |Marcos              | Diminuir o uso desnecessário e descontrolado do cartão de crédito              | Administrar melhor os gastos e economizar dinheiro |
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
