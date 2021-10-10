@@ -16,9 +16,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Paulo               | Aprender a poupar, investir e evitar dívidas           | Ter uma situação financeira estável              |
-|Viviane             | Alterar permissões                 | Permitir que possam administrar contas |
-|Luciano             | Alterar permissões                 | Permitir que possam administrar contas |
-|Marcos              | Alterar permissões                 | Permitir que possam administrar contas |
+|Viviane             | Ter uma boa renda                 | Poder gastar sem me preocupar |
+|Luciano             | Me livrar de dívidas pendentes e evitar gerar novas dívidas                 | Ter condições de dar um futuro estável à minha família |
+|Marcos              | Diminuir o uso desnecessário e descontrolado do cartão de crédito              | Administrar melhor os gastos e economizar dinheiro |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
