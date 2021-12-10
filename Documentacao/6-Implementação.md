@@ -2,20 +2,18 @@
 
 <span style="color:red">Pré-requisitos: <a href="4-Gestão-Configuração.md"> Ambiente e Ferramentas de Trabalho</a></span>
 
-## Tecnologias Utilizadas
+## Tecnologias utilizadas
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+A solução implementada conta com os seguintes módulos:
+* Navegador - Interface básica do sistema 
+* Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
+* LocalStorage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
+-  Usuários - Registro de usuários da plataforma
+-  Gastos - Registro dos gastos mensais dos usuários da plataforma
+-  Contatos -  Contatos de ajuda profissional em finanças e psicologia disponibilizados para ajudar os usuários da plataforma
+* Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
+  
+<br>.
 
 ## Arquitetura da solução
 
