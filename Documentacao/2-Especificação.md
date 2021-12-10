@@ -1,6 +1,5 @@
 # Especificações Do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a></span>
 
 A partir das entrevistas realizadas pelo grupo com diversas pessoas em diferentes condições, foram definidas as seguintes especificações para a execução do projeto:
 
