@@ -3,7 +3,7 @@
 
 Esse trabalho tem como objetivo geral a criação de um site/aplicativo que apresente ferramentas de fácil uso para auxiliar pessoas que querem administrar melhor seu dinheiro.
 
- A lem disso, a plataforma visa:
+ Além disso, a plataforma visa:
  * Fornecer uma interface interativa para ajudar no controle do dinheiro do usuário
  * Integrar com centrais de ajuda profissional nas áreas de psicologia e finanças para fornecer um serviço personalizado de ajuda ao usuário
  * Fornecer dicas para economizar dinheiro
