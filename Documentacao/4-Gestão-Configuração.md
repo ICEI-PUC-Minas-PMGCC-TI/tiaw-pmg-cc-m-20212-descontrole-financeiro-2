@@ -22,4 +22,4 @@ etiquetas:
 
 ## Hospedagem
 
-Para hospedar a plataforma a equipe utilisou a plataforma *Replit*, que além de hospedar a plataforma, permite fácil acesso aos arquivos do projeto e torna possível a visualização imediata de mudanças no código fonte.
+Para hospedar a plataforma a equipe utilizou a plataforma *Replit*, que além de hospedar a plataforma, permite fácil acesso aos arquivos do projeto e torna possível a visualização imediata de mudanças no código fonte.
