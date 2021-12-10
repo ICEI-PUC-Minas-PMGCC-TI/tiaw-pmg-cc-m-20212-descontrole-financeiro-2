@@ -29,7 +29,11 @@ As ferramentas empregadas no projeto são:
 
 > O *Visual Studio Code* foi o editor de código escolhido porque possui uma integração com o
 sistema de versão.
+
 > A plataforma *Teams* foi escolhida para a comunicação entre os integrantes do grupo por ser prática e consistente.
+
 > A plataforma *Figma* foi escolhida para o desenvolvimento dos wireframes e do user flow por recomendação dos professores da disciplina de TIAW.
+
 > A plataforma *Replit* foi escolhida para hospedar o site pela sua facilidade de uso.
+
 > Grande parte das ferramentas da *Google* são utilizadas no projeto, como o Slides, Docs, Drive e outros. Elas são modernas e intuitivas para exercer suas funções.
