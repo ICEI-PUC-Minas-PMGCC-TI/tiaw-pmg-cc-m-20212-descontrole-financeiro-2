@@ -36,4 +36,4 @@ sistema de versão.
 ![Replit](images/replit.png)
 - Google Sofwares
 > Grande parte das ferramentas da *Google* são utilizadas no projeto, como o Slides, Docs, Drive e outros. Elas são modernas e intuitivas para exercer suas funções.
-![Replit](images/google.png)
+![Google](images/google.png)
