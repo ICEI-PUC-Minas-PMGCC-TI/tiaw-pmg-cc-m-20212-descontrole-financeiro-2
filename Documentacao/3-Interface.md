@@ -1,8 +1,7 @@
 
 # Projeto de Interface
-Para a elaboração do wireframe e protótipo interativo, a equipe utilizou da plataforma de hospedagem de páginas web **Replit**, que permitiu um esboço fiel do resultado almejado.
 
-Para a elaboração do user-flow, a equipe utilizou da paltaforma **Figma**, que permitiu o design seguindo precisamente o protótipo interativo.
+Para a elaboração do wireframe e do user-flow, a equipe utilizou da paltaforma **Figma**, que permitiu um esboço fiel do resultado almejado e seguindo precisamente o protótipo.
 
 ## User Flow
 
