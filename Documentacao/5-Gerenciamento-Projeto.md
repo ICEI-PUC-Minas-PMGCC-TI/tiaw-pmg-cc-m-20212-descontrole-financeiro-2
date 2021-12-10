@@ -32,8 +32,8 @@ sistema de versão.
 > A plataforma *Figma* foi escolhida para o desenvolvimento dos wireframes e do user flow por recomendação dos professores da disciplina de TIAW.
 ![Figma](images/figma.png)
 - Replit
-> A plataforma *Replit* foi escolhida para hospedar o site pela sua facilidade de uso.
 ![Replit](images/replit.png)
+> A plataforma *Replit* foi escolhida para hospedar o site pela sua facilidade de uso.
 - Google Sofwares
 > Grande parte das ferramentas da *Google* são utilizadas no projeto, como o Slides, Docs, Drive e outros. Elas são modernas e intuitivas para exercer suas funções.
 ![Google](images/google.png)
