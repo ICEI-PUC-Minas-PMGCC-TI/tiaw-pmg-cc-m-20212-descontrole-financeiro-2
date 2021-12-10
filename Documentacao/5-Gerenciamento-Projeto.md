@@ -41,4 +41,4 @@ sistema de versão.
 - Google Sofwares
 > Grande parte das ferramentas da *Google* são utilizadas no projeto, como o Slides, Docs, Drive e outros. Elas são modernas e intuitivas para exercer suas funções.
 
-<img src="images/google.png" width="400" height="350"></img>
+<img src="images/google.png" width="450" height="350"></img>
