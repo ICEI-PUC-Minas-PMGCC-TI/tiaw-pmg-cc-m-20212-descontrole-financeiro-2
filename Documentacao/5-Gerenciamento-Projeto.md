@@ -24,7 +24,7 @@ As ferramentas empregadas no projeto são:
 - Visual Studio Code
 > O *Visual Studio Code* foi o editor de código escolhido porque possui uma integração com o
 sistema de versão.
-<img src="images/vscode.png" width="200" height="200">
+<img src="images/vscode.png" width="200" height="200"></img>
 - Teams
 > A plataforma *Teams* foi escolhida para a comunicação entre os integrantes do grupo por ser prática e consistente.
 <img src="images/teams.png" width="200" height="200"></img>
