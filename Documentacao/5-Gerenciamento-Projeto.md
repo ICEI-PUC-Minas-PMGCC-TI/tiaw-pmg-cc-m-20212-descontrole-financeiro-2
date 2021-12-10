@@ -3,7 +3,7 @@
 |Ambiente|Plataforma|Link de acesso|
 |:--------:|:----------:|:--------------|
 |Repositório de código e documentação|GitHub|https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20212-descontrole-financeiro-2
-|Projetos de interface|Figma|https://httpspedroh.github.io/quem-necessita/
+|Projetos de interface|Figma|https://www.figma.com/file/JrzEIMCcyWlQ0vveJPtSdR/Wireframe?node-id=243%3A1
 
 <br></br>
 
