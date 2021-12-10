@@ -7,48 +7,29 @@
 
 <br></br>
 
-## Divisão de Papéis
+## Organização da equipe
+* **Equipe de desenvolvimento:**
 
-> Apresente a divisão de papéis entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
-## Processo
-
-> Coloque  informações sobre detalhes da implementação do Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+  * Caio Henrique Alvarenga Gonçalves **`Desenvolvedor Front-End`**
+  * Luan Tadeu Lima Rezende Dias **`Desenvolvedor Front-End`**
+  * Luana Policarpo de Castro **`Desenvolvedora Front-End`**
+  * Thiago Torres Santos **`Desenvolvedor Front-End`**
+  * Vinícius Figueiredo Ferreira **`Desenvolvedor Front-End`**
+<br></br>
 
 ## Ferramentas
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de diagramação
+- Visual Studio Code
+- Teams
+- Figma
+- Replit
+- Google Sofwares
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-> Liste quais ferramentas foram empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [![Slack](images/slack.jpg)](https://slack.com/)
-> - [![Trello](images/trello.png)](https://trello.com/)
-> 
-> - [![Microsof Project](images/project.png)](https://products.office.com/pt-br/project/project-and-portfolio-management-software)
-> - [![Redbooth](images/redbooth.png)](https://redbooth.com/)
+> O *Visual Studio Code* foi o editor de código escolhido porque possui uma integração com o
+sistema de versão.
+> A plataforma *Teams* foi escolhida para a comunicação entre os integrantes do grupo por ser prática e consistente.
+> A plataforma *Figma* foi escolhida para o desenvolvimento dos wireframes e do user flow por recomendação dos professores da disciplina de TIAW.
+> A plataforma *Replit* foi escolhida para hospedar o site pela sua facilidade de uso.
+> Grande parte das ferramentas da *Google* são utilizadas no projeto, como o Slides, Docs, Drive e outros. Elas são modernas e intuitivas para exercer suas funções.
