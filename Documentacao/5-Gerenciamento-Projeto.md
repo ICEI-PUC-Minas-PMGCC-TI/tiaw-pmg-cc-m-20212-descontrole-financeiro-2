@@ -27,7 +27,7 @@ sistema de versão.
 ![VS-Code](images/vscode.png =250x250)
 - Teams
 > A plataforma *Teams* foi escolhida para a comunicação entre os integrantes do grupo por ser prática e consistente.
-![Teams](images/teams.png =250x250)
+<img src="images/teams.png" width="200" height="400">
 - Figma
 > A plataforma *Figma* foi escolhida para o desenvolvimento dos wireframes e do user flow por recomendação dos professores da disciplina de TIAW.
 ![Figma](images/figma.png =250x250)
