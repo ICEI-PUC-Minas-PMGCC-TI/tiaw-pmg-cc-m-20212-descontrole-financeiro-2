@@ -1,12 +1,8 @@
 
 # Projeto de Interface
+Para a elaboração do wireframe e protótipo interativo, a equipe utilizou da plataforma de hospedagem de páginas web **Replit**, que permitiu um esboço fiel do resultado almejado.
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação.md"> Documentação de Especificação</a></span>
-
-> Apresente as principais a interface da plataforma. Discuta como ela
-> foi elaborada de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](2-Especificação.md).
+Para a elaboração do user-flow, a equipe utilizou da paltaforma **Figma**, que permitiu o design seguindo precisamente o protótipo interativo.
 
 ## User Flow
 
