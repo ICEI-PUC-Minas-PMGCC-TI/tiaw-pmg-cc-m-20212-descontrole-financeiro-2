@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>W3.CSS Template</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+        .w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+        .fa-anchor,.fa-coffee {font-size:200px}
+        
+        input{
+            margin: 0px 0px;
+        }
+    </style>
+    <link rel="stylesheet" href="navbar.css">
+</head>
+<body>
+
+<!-- Navbar -->
+<div class="w3-top" id='navbar'>
+  <div class="w3-bar w3-red w3-card w3-left-align w3-large">
+    <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-red" href="javascript:void(0);" onclick="hamburguerMenu()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a href="/" class="w3-bar-item w3-button w3-padding-large w3-white">Home</a>
+    <a href="perfil.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white showOnLogin">Perfil</a>
+    <button href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white showOnLogin" onclick="logout()">Logout</button>
+    <div class="w3-bar-item w3-ali hideOnLogin" style="margin-left: auto;">
+        <form action="" class="w3-large" onSubmit="loginSubmit(event, this)">
+            <input type="text" name="username" placeholder="Usuário">
+            <input type="password" name="password" placeholder="Senha">
+            <button class="w3-button w3-green">Login</button>
+            <a href="cadastro.html">Registrar</a>
+        </form>
+    </div>
+  </div>
+
+  <!-- Navbar on small screens -->
+  <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
+    <a href="#" class="w3-bar-item w3-button w3-padding-large showOnLogin">Perfil</a>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="w3-container w3-red w3-center" style="padding:128px 16px">
+   <h1><b> VOCÊ SOFRE DE DESCONTROLE FINANCEIRO? </b></h1>
+  <img src="banner1.jpg" class="mySlides" style="width:100%">
+  <img src="banner2.jpg" class="mySlides" style="width:100%">
+  <img src="banner3.jpg" class="mySlides" style="width:100%">
+  <img src="banner4.jpg" class="mySlides" style="width:100%">
+  <img src="banner5.jpg" class="mySlides" style="width:100%">
+  <img src="banner6.jpg" class="mySlides" style="width:100%">
+
+
+
+  <button class="w3-button" onclick="plusDivs(-1)">&#10094;</button>
+  <button class="w3-button" onclick="plusDivs(1)">&#10095;</button>
+
+  <h1><b> REGISTRE-SE EM NOSSO SITE, E NO SEU PERFIL, TENHA ACESSO
+    A NOSSA CALCULADORA EXCLUSIVA PARA AJUDAR A ORGANIZAR SUAS FINANÇAS! </b></h1>
+
+</header>
+
+<footer>
+  <div class="col-100 footer">
+      <div class="container">
+      <div class="w3-row">
+
+          <div class="w3-col m6">
+
+              <h3><b>Sobre nós!</b></h3>
+              <p>
+                  Somos um grupo de estudantes do primeiro 
+                  período da Universidade PUC Minas, e nos esforçamos
+                  ao máximo para ajudar você e todos que utilizarem esse site como ferramenta.
+              </p>
+          </div>
+          <div class="w3-col m6">
+              <h3><b>Fale Conosco!</b></h3>
+              <p>
+                  Nos mande um email, e conta o que achou deste site!
+              </p>
+              <p class="local">Minas Gerais, Brasil
+              <p>
+              <p class="emailico">descontrole.financeiro@email.com
+              <p>
+              <p class="telefoneico">9880-4559
+              <p>
+          </div>
+      </div>
+      </div>
+  </div>
+</footer>
+
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length} ;
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  x[slideIndex-1].style.display = "block";
+}
+</script>
+
+<script>
+  var slideIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  slideIndex++;
+  if (slideIndex > x.length) {slideIndex = 1}
+  x[slideIndex-1].style.display = "block";
+  setTimeout(carousel, 12000); // Change image every 12 seconds
+}
+</script>
+
+
+
+
+<script src="login.js"></script>
+</body>
+</html>

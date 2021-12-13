@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Cadastro de Ganhos</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        body,
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            font-family: "Lato", sans-serif
+        }
+
+        .w3-bar,
+        h1,
+        button {
+            font-family: "Montserrat", sans-serif
+        }
+
+        .fa-anchor,
+        .fa-coffee {
+            font-size: 200px
+        }
+
+        input {
+            margin: 0px 0px;
+        }
+    </style>
+    <link rel="stylesheet" href="navbar.css">
+</head>
+
+<body>
+
+    <!-- Navbar -->
+    <div class="w3-top" id='navbar'>
+        <div class="w3-bar w3-red w3-card w3-left-align w3-large">
+            <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-red"
+                href="javascript:void(0);" onclick="hamburguerMenu()"
+                title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+            <a href="/" class="w3-bar-item w3-button w3-padding-large w3-hover-white">Home</a>
+            <a href="perfil.html"
+                class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-white showOnLogin">Perfil</a>
+            <button href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white showOnLogin" onclick="logout()">Logout</button>
+            <div class="w3-bar-item w3-ali hideOnLogin" style="margin-left: auto;">
+                <form action="" class="w3-large" onSubmit="loginSubmit(event, this)">
+                    <input type="text" name="username" placeholder="Usuário">
+                    <input type="password" name="password" placeholder="Senha">
+                    <button class="w3-button w3-green">Login</button>
+                    <a href="cadastro.html">Registrar</a>
+                </form>
+            </div>
+        </div>
+
+        <!-- Navbar on small screens -->
+        <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
+            <a href="#" class="w3-bar-item w3-button w3-padding-large showOnLogin">Perfil</a>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="w3-container w3-red" style="padding:128px 16px; display: flex;">
+        <div style="flex: 0.2; border-right: 1px solid white;">
+            <div style="display: flex;">
+                <img src="defaultpp.png" alt="" width="50px">
+                <h5 style="margin: 8px 10px;" id="user-name">Nome</h5>
+            </div>
+            <h5 style="margin: 8px 10px;" id="user-age">Idade: 45</h5>
+
+            <input style="margin: 8px 10px; cursor: pointer;" type="button" class="btn btn-fail" id="" value="Ganhos">
+
+
+            <a href="perfil2.html">
+                <input style="margin: 8px 10px; cursor: pointer;" type="button" class="btn btn-success" id="" value="Gastos"></a>
+
+
+            <a href="perfil3.html">
+                <input style="margin: 8px 10px; cursor: pointer;" type="button" class="btn btn-success" id="" value="Saldo"></a>
+
+
+        </div>
+        <div class="w3-center" style="flex: 1;">
+
+            <body>
+                <h1>Cadastro de Ganhos</h1>
+
+                <div class="container">
+                    <form id="form-gasto">
+                        <div class="form-group row">
+                            <div class="col-sm-6">
+                                <label for="inputId">Nome Identificador</label>
+                                <input type="text" class="form-control" id="inputId" placeholder="Insira um nome diferente dos já inseridos para identificar o ganho" required>
+                </div>
+                            <div class="col-sm-6">
+                                <label for="inputValor">Valor</label>
+                                <input type="text" class="form-control" id="inputValor" placeholder="Informe o valor" required>
+                </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-sm-12">
+                                <input type="button" class="btn btn-success" id="btnInsert" value="Inserir">
+                                <input type="button" class="btn btn-warning" id="btnUpdate" value="Alterar">
+                                <input type="button" class="btn btn-danger" id="btnDelete" value="Excluir">
+                </div>
+                        </div>
+                    </form>
+
+                    <div id="imprimeGanhos">
+                        <table class="table">
+                            <thead class="thead-dark">
+                                <tr>
+                                    <th scope="col">Nome Identificador</th>
+                                    <th scope="col">Valor</th>
+                                </tr>
+                            </thead>
+                            <tbody id="imprimeGanhosBody">
+                            </tbody>
+                        </table>
+                    </div>
+
+
+                    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+                    <script src="db.js"></script>
+                    <script>
+                        window.onload = () => {
+            imprimeGanhos();
+        }
+
+                    </script>
+            </body>
+        </div>
+    </header>
+
+
+
+    <script src="login.js"></script>
+    <script src="saldo.js"></script>
+    <script>
+        let user = JSON.parse(localStorage.getItem('user'));
+    document.getElementById('user-name').textContent = user.username;
+    document.getElementById('user-age').textContent = 'Idade: ' + user.age;
+    </script>
+</body>
+
+</html>

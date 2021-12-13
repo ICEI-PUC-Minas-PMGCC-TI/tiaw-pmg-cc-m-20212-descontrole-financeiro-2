@@ -1,0 +1,10 @@
+.logedIn .hideOnLogin{
+    display: none;
+}
+
+.showOnLogin{
+    display: none !important;
+}
+.logedIn .showOnLogin{
+    display: unset !important;
+}
