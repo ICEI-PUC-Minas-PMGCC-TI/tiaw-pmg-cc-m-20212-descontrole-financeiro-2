@@ -21,3 +21,4 @@ A solução implementada conta com os seguintes módulos:
 ![Exemplo de UserFlow](images/userflow.png)
 
 # Funcionalidades do sistema
+## Calculadora de gastos -  Registro de Gastos
