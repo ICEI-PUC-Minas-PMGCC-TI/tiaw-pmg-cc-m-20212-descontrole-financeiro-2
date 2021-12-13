@@ -1,6 +1,7 @@
 # Avaliação da Aplicação
 
 ## Plano de Testes
+Casos de testes executados durante o desenvolvimento do projeto:
 ## CT-01
 |||
 |--|----------|
