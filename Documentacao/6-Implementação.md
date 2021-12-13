@@ -1,6 +1,5 @@
 # Projeto da Solução
 
-<span style="color:red">Pré-requisitos: <a href="4-Gestão-Configuração.md"> Ambiente e Ferramentas de Trabalho</a></span>
 
 ## Tecnologias utilizadas
 
@@ -20,3 +19,5 @@ A solução implementada conta com os seguintes módulos:
 
 
 ![Exemplo de UserFlow](images/userflow.png)
+
+# Funcionalidades do sistema
