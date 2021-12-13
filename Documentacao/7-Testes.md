@@ -23,8 +23,7 @@
 
 
 ## Ferramentas de Testes (Opcional)
-
-
+Para a realização dos testes foram utilizadas apenas as ferramentas presentes no próprio navegador, como o console e o DevTools.
 
 ## Avaliação
 Todos os testes foram bem sucedidos e todos os erros corrigidos
