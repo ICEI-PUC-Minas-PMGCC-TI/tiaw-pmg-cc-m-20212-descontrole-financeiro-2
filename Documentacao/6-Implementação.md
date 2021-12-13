@@ -22,7 +22,7 @@ A solução implementada conta com os seguintes módulos:
 
 # Funcionalidades do sistema
 ## Página de Login/Registro de novos usuários
-![login](loginregistro/gastos.png)
+![login](images/loginregistro.png)
 *Descrição:* Cadastra novos usuários ou loga em um usuário existente utilizando o LocalStorage.
 ## Administração de Finanças -  Registro de Gastos
 ![gastos](images/gastos.png)
