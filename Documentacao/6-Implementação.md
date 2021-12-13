@@ -21,4 +21,12 @@ A solução implementada conta com os seguintes módulos:
 ![Exemplo de UserFlow](images/userflow.png)
 
 # Funcionalidades do sistema
-## Calculadora de gastos -  Registro de Gastos
+## Administração de Finanças -  Registro de Gastos
+![gastos](images/gastos.png)
+*Descrição:* Cadastro dos gastos de um usuário utilizando o LocalStorage.
+## Administração de Finanças -  Registro de Ganhos
+![ganhos](images/ganhos.png)
+*Descrição:* Cadastro dos ganhos de um usuário utilizando o LocalStorage.
+## Administração de Finanças -  Cálculo do saldo final
+![saldo](images/saldo.png)
+*Descrição:* Cálculo do saldo final a partir dos gastos e ganhos.Após determinar o saldo final, dependendo do resultado, a pagina mostra diferentes dicas para finanças.
