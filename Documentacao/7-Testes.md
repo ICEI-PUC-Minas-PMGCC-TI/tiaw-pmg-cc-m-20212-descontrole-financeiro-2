@@ -8,7 +8,10 @@
 |Objetivo do teste|Verificar se os elementos visuais presentes nas páginas se distribuem adequadamente ao dispositivo em que estão sendo exibidos.
 |Passos|1) Acessar o navegador<br>2) Informar a URL do site<br>3) Utilizar a ferramenta DevTools do navegador para simular a visualização do site em diferentes dispositivos<br>4) Verificar a disposição dos elementos da página
 |Critérios de êxito|Os elementos da página foram exibidos da melhor forma possível para os diferentes displays
+
 <br>
+
+
 ## CT-02
 |||
 |--|----------|
