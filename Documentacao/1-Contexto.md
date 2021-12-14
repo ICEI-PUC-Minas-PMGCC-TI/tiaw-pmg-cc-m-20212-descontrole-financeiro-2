@@ -2,7 +2,7 @@
  O descontrole financeiro é uma consequência de fatores psicológicos, falta de hábito de planejamento, e forte pressão pelo consumo enquanto símbolo de aceitação social. Mas há muito mais a ser analisado. Esse é um dos estágios mais críticos que existe em finanças pessoais, podendo inclusive levar o indivíduo à depressão e problemas jurídicos.
 
 ## Problema
- Descontrole financeiro que tem como causa diversos fatores, como por exemplo o desemprego, a baixa renda e até mesmo o gasto desenfreado com coisas desnecessárias.
+ Descontrole financeiro tem como causa diversos fatores, como por exemplo o desemprego, a baixa renda e até mesmo o gasto desenfreado com coisas desnecessárias.
 No mundo capitalista existe um complexo sistema financeiro e publicitário que lucra com o endividamento, e é importante saber e entender os reais motivos dessa desorganização   para que a vida financeira e pessoal não seja mais prejudicada.
 
 ## Objetivos
